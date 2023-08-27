@@ -2,7 +2,6 @@
 
 This repository contains improvised approach for building job recommendation engine.
 
-
 ## Dependencies
 * matplotlib
 * seaborn
